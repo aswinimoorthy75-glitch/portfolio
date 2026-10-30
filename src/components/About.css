@@ -1,0 +1,33 @@
+.about {
+  padding: 80px 40px;
+}
+
+.section-title {
+  color: #38bdf8;
+  font-size: 2rem;
+  margin: 0 0 24px;
+}
+
+.about-text {
+  max-width: 700px;
+  line-height: 1.7;
+  color: #cbd5e1;
+}
+
+.edu-card {
+  max-width: 500px;
+  margin-top: 32px;
+  padding: 20px 24px;
+  background-color: #1e293b;
+  border-left: 4px solid #38bdf8;
+  border-radius: 8px;
+}
+
+.edu-card h3 {
+  margin: 0 0 8px;
+}
+
+.edu-card p {
+  margin: 4px 0;
+  color: #94a3b8;
+}
